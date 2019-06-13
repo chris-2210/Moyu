@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Moyu</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">MAYU</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Acerca de...</string>
+
+    <string name="menu_home">Inicio</string>
+    <string name="menu_sviaje">Solicitar viaje</string>
+    <string name="menu_seguimiento">Seguimiento</string>
+    <string name="menu_csesion">Cerrar Sesion</string>
+
+    <string name="txtbienvenido">Bienvenido a MOYU</string>
+    <string name="txtdescripcion">Tu app para llegar a cualquier parte</string>
+
+    <string name="tvtitulo">Solicitar Viaje</string>
+    <string name="tvnombre">Nombre del pasajero</string>
+    <string name="etnombre">Nombre</string>
+    <string name="tvorigen">Lugar de origen</string>
+    <string name="etorigen">Origen</string>
+    <string name="tvdestino">Lugar de destino</string>
+    <string name="etdestino">Destino</string>
+    <string name="btnsiguinete">Siguiente</string>
+    <string name="tvlogin">MOYU</string>
+    <string name="tvsesion">Iniciar Sesion</string>
+    <string name="cancel">Se ha cancelado la operacion</string>
+    <string name="error">Ha ocurrido un error durante la operacion</string>
+
+    <string name="facebook_app_id">2439332499446612</string>
+    <string name="fb_login_protocol_scheme">fb2439332499446612</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
